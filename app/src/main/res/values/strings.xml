@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hackathon Party</string>
+    <string name="office_latitude">33.160027</string>
+    <string name="office_longitude">-96.693817</string>
+    <string name="api_key">YOUR_YELP_API_KEY</string>
+    <string name="base_url">https://api.yelp.com/v3/</string>
+</resources>
+
+<!--    33.160027, -96.693817-->
